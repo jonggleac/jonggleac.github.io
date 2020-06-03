@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "daily"
-     url: "/daily/"
-   - title: "fashion"
-     url: "/fashion/"
-   - title: "music"
-     url: "/music/"
- 
+  - title: "About"
+    url: "/about/"
+   - title: "Category"
+     url: "/categories/"
+
