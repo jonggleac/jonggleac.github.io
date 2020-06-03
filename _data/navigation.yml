@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Daily"
-    url: /daily/
+  - title: "Categories"
+    url: /categories/
   - title: "Myfav"
     url: /myfav/
 
