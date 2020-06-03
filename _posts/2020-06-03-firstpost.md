@@ -1,7 +1,7 @@
 ---
 title:  "Hi"
 categories:
-  -blogging
+  -daily
 toc: true
 ---
 This is yeop's page
