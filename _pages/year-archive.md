@@ -1,6 +1,6 @@
 ---
 title: "My Daily"
-permalink: /Daily/
+permalink: /daily/
 layout: Daily
 author_profile: true
 ---
