@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "Yarchive"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yeop"
+name                     : "Yarchive"
 description              : "My archivements."
 url                      : "https://jonggleac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jong Yeop Lee"
+  name             : "Yeop"
   avatar           : # "C:\Users\Administrator\jonggleac.github.io\assets\images\profile.jpg
   bio              : "My space"
   location         : "Seoul, Republic of Korea"
@@ -101,10 +101,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://jonggleac.github.io/"
+       url:  # "https://jonggleac.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       # url: "https://www.instagram.com/ye0pyeop/"
+        url: # "https://www.instagram.com/ye0pyeop/"
 
 # Site Footer
 footer:
@@ -112,11 +112,11 @@ footer:
    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://jonggleac.github.io/"
+       url: # "https://jonggleac.github.io/"
     
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/ye0pyeop/"
+       url:  #"https://www.instagram.com/ye0pyeop/"
 
 
 # Reading Files
