@@ -121,14 +121,13 @@ author:
 # Site Footer
 footer:
   links:
-   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:  "https://jonggleac.github.io/"
+      url:  "https://jonggleac.github.io/"
     
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url:  "https://www.instagram.com/ye0pyeop/"
+      url:  "https://www.instagram.com/ye0pyeop/"
 
 
 # Reading Files
