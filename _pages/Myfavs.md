@@ -1,6 +1,6 @@
 ---
 title: "Myfav"
 permalink: /fav/
-layout: posts
+layout: fav
 author_profile: true
 ---
