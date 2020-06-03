@@ -2,5 +2,6 @@
 main:
   - title: "Daily"
     url: /daily/
-  
+  - title: My fav
+    url: /fav/
 
