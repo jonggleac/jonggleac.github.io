@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
-layout: posts
+title: "My Daily"
+permalink: /Daily/
+layout: Daily
 author_profile: true
 ---
