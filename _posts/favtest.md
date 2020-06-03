@@ -1,7 +1,7 @@
 ---
 title:  "legend"
 categories:
- myfav
+ Myfav
 toc: true
 ---
 
