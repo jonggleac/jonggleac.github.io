@@ -1,6 +1,6 @@
 ---
-title: "My fav"
-permalink: /myfav/
+title: "Posts"
+permalink: /posts/
 layout: posts
 author_profile: true
 ---
