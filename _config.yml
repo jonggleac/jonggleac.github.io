@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Jong Yeop Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "C:\Users\Administrator\jonggleac.github.io\assets\images\profile.jpg
+  bio              : "My space"
   location         : "Seoul, Republic of Korea"
   email            : "jonggleac@gmail.com"
   links:
