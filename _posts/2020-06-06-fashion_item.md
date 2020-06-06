@@ -9,9 +9,10 @@ toc: true
 <style>
   .text_center{
     text_align: center;
-    }
+   }
 </style>
 
+<div class="text_center", 9pt>
 매치스에서 세일 칸을 뒤지던 중 
 무려 60%세일을 하길래 냅다 구매하게 된
 <em>"베트멍x리복 스파이크 러너"</em>
